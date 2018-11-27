@@ -1,3 +1,3 @@
-# my_first_pwa
-Simple Weather PWA built using 
+# Simple weather progressive web application
+Simple Weather PWA built using <br>
 https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0
